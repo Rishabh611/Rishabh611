@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Singh</h1>
-<h3 align="center">Experienced Software Developer with 2.5 years of expertise in backend web application development using Python and JavaScript. Specialized in Django Framework for Python and currently expanding knowledge in JavaScript backend frameworks such as Express. Proficient in working with diverse databases including SQL (Postgres, MsSQL) and NoSQL (MongoDB). Well-versed in utilizing AWS services such as EC2, Lambda, and S3. Skilled in CI/CD methodologies using Docker, Ansible, and GitHub, with a strong focus on Test Driven Development.</h3>
+<h3 align="center">Experienced Software Developer with 3.5 years of expertise in backend web application development using Python and Java Specialized in Django Framework for Python and currently expanding knowledge in JavaScript backend frameworks such as Express. Proficient in working with diverse databases including SQL (Postgres, MsSQL) and NoSQL (MongoDB). Well-versed in utilizing AWS services such as EC2, Lambda, and S3. Skilled in CI/CD methodologies using Docker, Ansible, and GitHub, with a strong focus on Test Driven Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh611&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh611" /> </p>
 
